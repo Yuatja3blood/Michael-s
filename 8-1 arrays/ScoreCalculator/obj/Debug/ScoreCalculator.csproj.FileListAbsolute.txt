@@ -1,0 +1,12 @@
+C:\Users\Michael\Documents\Assignments\C#\8-2\8-2-ScoreCalculator-with-list-master\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+C:\Users\Michael\Documents\Assignments\C#\8-2\8-2-ScoreCalculator-with-list-master\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+C:\Users\Michael\Documents\Assignments\C#\8-2\8-2-ScoreCalculator-with-list-master\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+C:\Users\Michael\Documents\Assignments\C#\8-2\8-2-ScoreCalculator-with-list-master\ScoreCalculator\obj\Debug\ScoreCalculator.Form1.resources
+C:\Users\Michael\Documents\Assignments\C#\8-2\8-2-ScoreCalculator-with-list-master\ScoreCalculator\obj\Debug\ScoreCalculator.Properties.Resources.resources
+C:\Users\Michael\Documents\Assignments\C#\8-2\8-2-ScoreCalculator-with-list-master\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Assignments\C#\8-2\8-2-ScoreCalculator-with-list-master\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Assignments\C#\8-2\8-2-ScoreCalculator-with-list-master\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+C:\Users\Michael\Documents\Assignments\C#\8-2\8-2-ScoreCalculator-with-list-master\ScoreCalculator\obj\Debug\ScoreCalculator.pdb
+C:\Users\Michael\Documents\Assignments\C#\8-2\8-2-ScoreCalculator-with-list-master\ScoreCalculator\bin\Debug\ScoreCalculator.exe.CodeAnalysisLog.xml
+C:\Users\Michael\Documents\Assignments\C#\8-2\8-2-ScoreCalculator-with-list-master\ScoreCalculator\bin\Debug\ScoreCalculator.exe.lastcodeanalysissucceeded
+C:\Users\Michael\Documents\Assignments\C#\8-2\8-2-ScoreCalculator-with-list-master\ScoreCalculator\obj\Debug\ScoreCalculator.csprojResolveAssemblyReference.cache
